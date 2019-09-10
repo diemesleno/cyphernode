@@ -24,4 +24,5 @@ newblock() {
 
   do_callbacks_txid
   batch_check_webhooks
+  wasabi_batchprivatetospender
 }
